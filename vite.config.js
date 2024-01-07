@@ -15,7 +15,7 @@ export default defineConfig({
         name: "Portero",
         short_name: "Portero",
         description: "Portero",
-        theme_color: "#ffffff",
+        theme_color: "#ab7034",
         icons: [
           {
             src: "manifest-icon-192.maskable.png",
